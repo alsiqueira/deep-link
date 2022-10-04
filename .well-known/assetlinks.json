@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bvr5575.alexandredeep",
+      "sha256_cert_fingerprints": [
+        "5C:3C:BF:43:E8:4A:91:35:E1:CC:57:4D:BC:D0:F0:87:01:FB:D7:73:60:D6:39:CA:69:8B:39:05:1D:25:92:9B"
+      ]
+    }
+  }
+]
